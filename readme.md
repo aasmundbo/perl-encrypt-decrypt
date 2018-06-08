@@ -1,4 +1,4 @@
-### Perl-encryp-decrypt
+### Perl-encrypt-decrypt
 Perl scripts for encrypting a file and decrypting a file.
 
 The scripts are inspired by https://bjornjohansen.no/encrypt-file-using-ssh-key
