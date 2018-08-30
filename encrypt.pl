@@ -96,7 +96,7 @@ sub usage {
     print "Usage: $script -i <input_file> [-k <public_rsa> -o <output_file> -s <output_secret>]\n";
     print "\n";
     print "This encrypts encrypts <input_file> and stores it as <output_file> together with the\n";
-    print "encrypted secret key (encrypted using <rsa_key>).\n";
+    print "generated secret key (encrypted using <rsa_key>).\n";
     print "\n";
     print "Parameters:\n";
     print "  -i    input_file\n";
