@@ -3,6 +3,8 @@ Perl scripts for encrypting a file and decrypting a file.
 
 The scripts are inspired by https://bjornjohansen.no/encrypt-file-using-ssh-key
 
+Developed and tested using Cygwin on Windows 10.
+
 #### encrypt.pl
 Script encrypts the input file and an auto-generated symmetric key.
 The input file is encrypted using the symmetric key.
