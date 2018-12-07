@@ -14,4 +14,4 @@ The input file is encrypted using the symmetric key.
 The symmetric key is encrypted using the provided public RSA key.
 
 #### decrypt.pl
-Script decrypts the input file using the provided private RSA key.
+Script decrypts the input file using the provided encrypted symmetric key (decrypted using private RSA key).
